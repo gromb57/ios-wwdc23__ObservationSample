@@ -1,5 +1,7 @@
 # Observation Sample
 
+[Source](https://developer.apple.com/documentation/swiftui/migrating-from-the-observable-object-protocol-to-the-observable-macro)
+
 ## Configure the sample code project
 
 To run the sample app:
